@@ -1,1 +1,1 @@
-# Teashop
+# Teashop - Developers
